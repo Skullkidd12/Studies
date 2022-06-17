@@ -1,0 +1,28 @@
+{
+  "comentarios": [
+    {
+      "texto": "texto 1",
+      "autor": "fulano 1"
+    },
+    {
+      "texto": "texto 2",
+      "autor": "fulano 2"
+    },
+    {
+      "texto": "texto 3",
+      "autor": "fulano 3"
+    },
+    {
+      "texto": "texto 4",
+      "autor": "fulano 4"
+    },
+    {
+      "texto": "texto 5",
+      "autor": "fulano 5"
+    },
+    {
+      "texto": "texto 2",
+      "autor": "fulano 2"
+    }
+  ]
+}
